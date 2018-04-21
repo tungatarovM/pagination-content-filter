@@ -1,0 +1,19 @@
+{
+  "name": "pagination-page",
+  "version": "1.0.0",
+  "description": "basic pagination page and filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungatarovM/pagination-content-filter.git"
+  },
+  "author": "tungatarovM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tungatarovM/pagination-content-filter/issues"
+  },
+  "homepage": "https://github.com/tungatarovM/pagination-content-filter#readme"
+}
