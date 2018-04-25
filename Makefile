@@ -1,5 +1,5 @@
-install
+install:
 	npm install
 
-lint
+lint:
 	npm run eslint
