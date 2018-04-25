@@ -111,8 +111,7 @@ body{
       text-decoration: none;
       color: #4ba6c3;
     }
-
-    .pagination li a.active,
+    
     .pagination li a:hover{
       background-color: #4ba6c3;
       color: #fff;
