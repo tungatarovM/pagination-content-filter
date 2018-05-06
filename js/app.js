@@ -25,7 +25,7 @@ const showStudents = (limit, currentIndex) => {
 hideStudents();
 createPages(totalPages, 1);
 
-// Changing pages //
+// Change page //
 $('.pagination li.current-page').on('click', function () {
   const pageIndex = $(this).index() + 1;
   const grandTotal = pageIndex * limitPerPage;
